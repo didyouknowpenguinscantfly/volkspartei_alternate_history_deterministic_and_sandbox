@@ -1,15 +1,15 @@
-title: Party Affairs
+title: Parliamentary Affairs
 is-pinned-card: true
 tags: advisor
 card-image: img/Konigsberger_Allgemeine_Zeitung.png
 on-arrival: last_party_action = 1
 new-page: true 
 
-= Party Affairs
+= Parliamentary Affairs
 
 Rather than relying on random cards, we can instead choose directly which actions we want to take.
 
-- #party_affairs
+- #parliamentary_affairs
 - @back: Return to main
 
 @back
